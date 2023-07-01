@@ -1,0 +1,15 @@
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\bin\Debug\netcoreapp3.1\Pokemon.Data.deps.json
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\bin\Debug\netcoreapp3.1\Pokemon.Data.dll
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\bin\Debug\netcoreapp3.1\Pokemon.Data.pdb
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\obj\Debug\netcoreapp3.1\Pokemon.Data.csproj.AssemblyReference.cache
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\obj\Debug\netcoreapp3.1\Pokemon.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\obj\Debug\netcoreapp3.1\Pokemon.Data.AssemblyInfoInputs.cache
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\obj\Debug\netcoreapp3.1\Pokemon.Data.AssemblyInfo.cs
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\obj\Debug\netcoreapp3.1\Pokemon.Data.csproj.CoreCompileInputs.cache
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\obj\Debug\netcoreapp3.1\Pokemon.Data.dll
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\obj\Debug\netcoreapp3.1\Pokemon.Data.pdb
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\bin\Debug\netcoreapp3.1\Pokemon.Models.dll
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\bin\Debug\netcoreapp3.1\Pokemon.Models.pdb
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\obj\Debug\netcoreapp3.1\Pokemon.Data.csproj.CopyComplete
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\bin\Debug\netcoreapp3.1\Pokemon.Dtos.dll
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Data\bin\Debug\netcoreapp3.1\Pokemon.Dtos.pdb

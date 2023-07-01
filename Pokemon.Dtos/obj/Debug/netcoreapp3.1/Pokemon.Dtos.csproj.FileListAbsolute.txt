@@ -1,0 +1,10 @@
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\bin\Debug\netcoreapp3.1\Pokemon.Dtos.deps.json
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\bin\Debug\netcoreapp3.1\Pokemon.Dtos.dll
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\bin\Debug\netcoreapp3.1\Pokemon.Dtos.pdb
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\obj\Debug\netcoreapp3.1\Pokemon.Dtos.csproj.AssemblyReference.cache
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\obj\Debug\netcoreapp3.1\Pokemon.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\obj\Debug\netcoreapp3.1\Pokemon.Dtos.AssemblyInfoInputs.cache
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\obj\Debug\netcoreapp3.1\Pokemon.Dtos.AssemblyInfo.cs
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\obj\Debug\netcoreapp3.1\Pokemon.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\obj\Debug\netcoreapp3.1\Pokemon.Dtos.dll
+C:\Users\Skywalker\source\repos\Pokemon\Pokemon.Dtos\obj\Debug\netcoreapp3.1\Pokemon.Dtos.pdb
